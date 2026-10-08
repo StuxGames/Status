@@ -18,12 +18,12 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**No data yet** · [Live status page](https://status.stux.games/)
+**All systems operational** · [Live status page](https://status.stux.games/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Stux.Games | [Stux.Games](https://stux.games/) | No data | n/a | n/a | n/a | n/a |
-| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | No data | n/a | n/a | n/a | n/a |
+| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 390 ms |
+| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 300 ms |
 <!-- githup:end -->
 
 ## What's monitored
