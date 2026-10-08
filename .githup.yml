@@ -1,0 +1,68 @@
+# Stux.Games Status: https://status.stux.games
+# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# https://github.com/StuxGroup/GitHup
+site:
+  name: Stux.Games Status
+  description: Live status of Stux.Games' sites and servers, checked every 5 minutes.
+  logo: https://global.media.stux.games/logo.png
+  favicon: https://global.media.stux.games/favicon.ico
+  accent: "#FFBA1A"
+  url: https://status.stux.games/
+  footer_links:
+    - label: Stux.Games Games
+      url: https://games.stux.games/
+    - label: Report a problem
+      url: https://github.com/StuxGames/Status/issues/new
+
+legal:
+  operator: Stux.Games
+  company: "Stux.Games is operated by Stux Group Ltd, a company registered in England and Wales (company no. 13160574), registered office 82a James Carter Road, Mildenhall, England, IP28 7DE."
+  contact: legal@stux.games
+  host: GitHub Pages
+  effective: 8 October 2026
+
+defaults:
+  timeout: 15
+  retries: 2
+  max_response_time: 15000  # ms; GitHup's default. Slower (but otherwise good) answers show as degraded
+
+# Monitors are grouped into sections on the page, each with a combined status.
+# Slugs come from the names, so moving a monitor between groups keeps its history.
+# Only sites that answer today are monitored. The new page sites (games, gamepage, soonpage,
+# maintenancepage .stux.games) are listed as links under "Coming online" until their DNS and
+# GitHub Pages domains are live; move each into a monitors list then. The games themselves
+# (Flappie Race, MultiPong) have no public site yet, and dls.stux.games / media.stux.games
+# don't answer, so they aren't listed.
+groups:
+  - name: Stux.Games
+    description: The Stux.Games website.
+    monitors:
+      - name: Stux.Games
+        url: https://stux.games/
+        description: The Stux.Games homepage
+
+  - name: Shared
+    description: The media every Stux.Games site relies on.
+    monitors:
+      - name: Stux.Games Media CDN
+        url: https://global.media.stux.games/icon.png
+        description: Shared logos and images used across every Stux.Games site
+
+  - name: Coming online
+    description: New Stux.Games sites, monitored once they go live.
+    links:
+      - name: Stux.Games Games
+        url: https://games.stux.games
+        description: The directory of Stux.Games' games and server tools
+      - name: Gamepage
+        url: https://gamepage.stux.games
+        description: The placeholder shown for a game whose page isn't built yet
+      - name: Soonpage
+        url: https://soonpage.stux.games
+        description: The coming soon page
+      - name: Maintenancepage
+        url: https://maintenancepage.stux.games
+        description: The maintenance page
+
+incidents:
+  labels: [status]
