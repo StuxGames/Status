@@ -1,3 +1,4 @@
 {"monitor":"stux-games-media-cdn","month":"2026-10","fields":["t","status","code","ms"],"checks":[
-[1791482215,"up",200,514]
+[1791482215,"up",200,514],
+[1791482516,"up",200,385]
 ]}
