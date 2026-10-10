@@ -22,8 +22,8 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 412 ms |
-| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 721 ms |
+| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 416 ms |
+| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 834 ms |
 <!-- githup:end -->
 
 ## What's monitored
