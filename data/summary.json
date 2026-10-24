@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1792802688,
+ "updated": 1792802988,
  "name": "Stux.Games Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 349,
-   "checked_at": 1792802688,
+   "ms": 510,
+   "checked_at": 1792802988,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -26,17 +26,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 613,
+    "24h": 620,
     "7d": 568,
     "30d": 564,
     "90d": 564,
     "all": 564
    },
    "totals": {
-    "checks": 615,
-    "available": 615,
-    "ms_sum": 347094,
-    "ms_n": 615,
+    "checks": 616,
+    "available": 616,
+    "ms_sum": 347604,
+    "ms_n": 616,
     "first": 1791482215
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://global.media.stux.games/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 77,
-   "checked_at": 1792802688,
+   "ms": 343,
+   "checked_at": 1792802988,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -62,17 +62,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 341,
+    "24h": 338,
     "7d": 436,
     "30d": 474,
     "90d": 474,
     "all": 474
    },
    "totals": {
-    "checks": 615,
-    "available": 615,
-    "ms_sum": 291682,
-    "ms_n": 615,
+    "checks": 616,
+    "available": 616,
+    "ms_sum": 292025,
+    "ms_n": 616,
     "first": 1791482215
    },
    "incident": null
