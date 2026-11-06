@@ -22,12 +22,12 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 490 ms |
-| Stux.Games | [Stux.Games Games](https://games.stux.games/) | No data | n/a | n/a | n/a | n/a |
-| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 346 ms |
-| Templates | [Stux.Games Gamepage](https://gamepage.stux.games/) | No data | n/a | n/a | n/a | n/a |
-| Templates | [Stux.Games Soonpage](https://soonpage.stux.games/) | No data | n/a | n/a | n/a | n/a |
-| Templates | [Stux.Games Maintenancepage](https://maintenancepage.stux.games/) | No data | n/a | n/a | n/a | n/a |
+| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 425 ms |
+| Stux.Games | [Stux.Games Games](https://games.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 271 ms |
+| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 357 ms |
+| Templates | [Stux.Games Gamepage](https://gamepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 185 ms |
+| Templates | [Stux.Games Soonpage](https://soonpage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 164 ms |
+| Templates | [Stux.Games Maintenancepage](https://maintenancepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 159 ms |
 <!-- githup:end -->
 
 ## What's monitored
