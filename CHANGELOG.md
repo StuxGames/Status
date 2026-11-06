@@ -1,9 +1,24 @@
 # Changelog
 
-All notable changes to Stux.Games' status page (status.stux.games) are documented here. It
-follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+All notable changes to Stux.Games' status page (status.stux.games) are documented here.
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
+
+## v26.11.06-1
+
+### Added
+
+- **Stux.Games Games** (games.stux.games) is now monitored, in the Stux.Games group, and a new **Templates** group
+  monitors Stux.Games Gamepage, Soonpage and Maintenancepage. All four sites are live, so they move out of the
+  "Coming online" links (which are removed)
+
+### Changed
+
+- The README's "What's monitored" list matches, and CONTRIBUTING is titled Stux.Games Status
+
+### Fixed
+
+- The CHANGELOG intro no longer says the project follows Semantic Versioning; it has used Date Versioning since v26.10.23
 
 ## v26.11.06
 

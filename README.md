@@ -30,9 +30,9 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times, 5 minutes apart, to fill the gap), GitHup checks each monitor in [`.githup.yml`](.githup.yml):
 
-- **Stux.Games:** the stux.games homepage
+- **Stux.Games:** the stux.games homepage and the games.stux.games directory
 - **Shared:** the Stux.Games media CDN
-- **Coming online:** games.stux.games, gamepage.stux.games, soonpage.stux.games and maintenancepage.stux.games are listed as links, not checked, until their sites go live
+- **Templates:** gamepage.stux.games, soonpage.stux.games and maintenancepage.stux.games
 
 To add a site, add a monitor to the right group there (or a new group). A group can also hold `links:` instead of monitors, for sites that should be listed but not checked.
 

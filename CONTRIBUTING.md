@@ -2,9 +2,9 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.games/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.games/logo-dark.png"><img src="https://global.media.stux.games/logo-dark.png" height="80" alt="Stux.Games Logo"></picture>
 </p>
 
-# Contributing to Status
+# Contributing to Stux.Games Status
 
-Status is Stux.Games' status page, [status.stux.games](https://status.stux.games), built with
+Stux.Games Status is Stux.Games' status page, [status.stux.games](https://status.stux.games), built with
 [GitHup](https://githup.stux.group). To report an outage, open an Issue. Bugs or ideas for the
 status page software belong in [StuxGroup/GitHup](https://github.com/StuxGroup/GitHup/issues).
 
