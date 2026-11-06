@@ -29,18 +29,19 @@ defaults:
 
 # Monitors are grouped into sections on the page, each with a combined status.
 # Slugs come from the names, so moving a monitor between groups keeps its history.
-# Only sites that answer today are monitored. The new page sites (games, gamepage, soonpage,
-# maintenancepage .stux.games) are listed as links under "Coming online" until their DNS and
-# GitHub Pages domains are live; move each into a monitors list then. The games themselves
-# (Flappie Race, MultiPong) have no public site yet, and dls.stux.games / media.stux.games
-# don't answer, so they aren't listed.
+# Only sites that answer are monitored; list a new site under a group's `links:` until it does.
+# The games themselves (Flappie Race, MultiPong) have no public site yet, and dls.stux.games /
+# media.stux.games don't answer, so they aren't listed.
 groups:
   - name: Stux.Games
-    description: The Stux.Games website.
+    description: The Stux.Games websites.
     monitors:
       - name: Stux.Games
         url: https://stux.games/
         description: The Stux.Games homepage
+      - name: Stux.Games Games
+        url: https://games.stux.games/
+        description: The directory of Stux.Games' games and server tools
 
   - name: Shared
     description: The media every Stux.Games site relies on.
@@ -49,20 +50,17 @@ groups:
         url: https://global.media.stux.games/icon.png
         description: Shared logos and images used across every Stux.Games site
 
-  - name: Coming online
-    description: New Stux.Games sites, monitored once they go live.
-    links:
-      - name: Stux.Games Games
-        url: https://games.stux.games
-        description: The directory of Stux.Games' games and server tools
+  - name: Templates
+    description: The placeholder pages Stux.Games sites show while they're being built or worked on.
+    monitors:
       - name: Stux.Games Gamepage
-        url: https://gamepage.stux.games
+        url: https://gamepage.stux.games/
         description: The placeholder shown for a game whose page isn't built yet
       - name: Stux.Games Soonpage
-        url: https://soonpage.stux.games
+        url: https://soonpage.stux.games/
         description: The coming soon page
       - name: Stux.Games Maintenancepage
-        url: https://maintenancepage.stux.games
+        url: https://maintenancepage.stux.games/
         description: The maintenance page
 
 incidents:
