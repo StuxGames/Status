@@ -5,6 +5,16 @@ follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.06
+
+### Changed
+
+- The page's logo and favicon are now its own badge icon (the Stux.Games mark with a heartbeat badge, built by
+  StuxGames/Games' `scripts/badge-icons.py`) rather than the plain Stux.Games logo. The README's header too, now titled
+  Stux.Games Status
+- The "Coming online" links use their full names: Stux.Games Gamepage, Stux.Games Soonpage and Stux.Games
+  Maintenancepage, not bare "Gamepage", "Soonpage" and "Maintenancepage"
+
 ## v26.10.23
 
 ### Added

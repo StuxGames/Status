@@ -4,8 +4,9 @@
 site:
   name: Stux.Games Status
   description: Live status of Stux.Games' sites and servers, checked every 5 minutes.
-  logo: https://global.media.stux.games/logo.png
-  favicon: https://global.media.stux.games/favicon.ico
+  # Its own badge icon (the Stux.Games mark with a heartbeat badge), as on games.stux.games.
+  logo: https://games.stux.games/assets/img/games/stux-games-status.png
+  favicon: https://games.stux.games/assets/img/games/stux-games-status.png
   accent: "#FFBA1A"
   url: https://status.stux.games/
   footer_links:
@@ -54,13 +55,13 @@ groups:
       - name: Stux.Games Games
         url: https://games.stux.games
         description: The directory of Stux.Games' games and server tools
-      - name: Gamepage
+      - name: Stux.Games Gamepage
         url: https://gamepage.stux.games
         description: The placeholder shown for a game whose page isn't built yet
-      - name: Soonpage
+      - name: Stux.Games Soonpage
         url: https://soonpage.stux.games
         description: The coming soon page
-      - name: Maintenancepage
+      - name: Stux.Games Maintenancepage
         url: https://maintenancepage.stux.games
         description: The maintenance page
 

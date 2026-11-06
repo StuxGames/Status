@@ -1,8 +1,8 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.games/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.games/logo-dark.png"><img src="https://global.media.stux.games/logo-dark.png" height="100" alt="Stux.Games Logo"></picture>
+  <img src="https://games.stux.games/assets/img/games/stux-games-status.png" height="100" alt="Stux.Games Status icon">
 </p>
 
-# Status
+# Stux.Games Status
 
 ### *Live status of Stux.Games' sites and servers, powered by [GitHup](https://githup.stux.group).*
 
