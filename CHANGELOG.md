@@ -4,6 +4,18 @@ All notable changes to Stux.Games' status page (status.stux.games) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.06-2
+
+### Added
+
+- A `test` branch: work happens on `test` (or a branch off it), and reaches `main` only through a pull request from
+  `test` that Leo reviews and merges. Release commits and tags are made on `test`. CONTRIBUTING has a Branches section
+  and the README's Versioning section says so
+
+### Changed
+
+- `commit.sh` and `commit.bat` suggest `git push origin test --tags`
+
 ## v26.11.06-1
 
 ### Added
