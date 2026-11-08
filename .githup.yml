@@ -1,9 +1,10 @@
 # Stux.Games Status: https://status.stux.games
-# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# Asks GitHub for a check every 5 minutes (best-effort; GitHub often runs it less often) - .github/workflows/status.yml
+# Uses GitHup:
 # https://github.com/StuxGroup/GitHup
 site:
   name: Stux.Games Status
-  description: Live status of Stux.Games' sites and servers, checked every 5 minutes.
+  description: Live status of Stux.Games' sites and servers, checked regularly.
   # Its own badge icon (the Stux.Games mark with a heartbeat badge), as on games.stux.games.
   logo: https://games.stux.games/assets/img/games/stux-games-status.png
   favicon: https://games.stux.games/assets/img/games/stux-games-status.png
