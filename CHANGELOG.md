@@ -4,6 +4,15 @@ All notable changes to Stux.Games' status page (status.stux.games) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.08
+
+### Changed
+
+- **Status checks are described as "checked regularly", not "every 5 minutes".** GitHub runs the `*/5` schedule
+  best-effort, often much less often. The site description in `.githup.yml` says "checked regularly" and its comment
+  says the 5-minute request is best-effort. The README says the page shows the real check rhythm over the last
+  24 hours, and CONTRIBUTING no longer says data lands every 5 minutes. The cron itself is unchanged
+
 ## v26.11.06-2
 
 ### Added

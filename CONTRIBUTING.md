@@ -34,7 +34,7 @@ You need Python 3.11+ and nothing else.
 - Work on `test`, or on a feature branch off it. Never push to `main`
 - Changes reach `main` only through a pull request from `test` into `main`, which is reviewed and merged by Leo
 - Merging into `main` rebuilds status.stux.games when `.githup.yml` or the workflow changed; release commits and tags are made on `test` (`git push origin test --tags`) and go live when the pull request is merged
-- GitHup commits monitoring data to `main` every 5 minutes, so merge `main` into `test` before starting new work
+- GitHup commits monitoring data to `main` after each check (regularly, not on a fixed 5-minute rhythm), so merge `main` into `test` before starting new work
 
 ## Versioning
 
