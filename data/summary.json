@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1794303262,
+ "updated": 1794329913,
  "name": "Stux.Games Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 277,
-   "checked_at": 1794303262,
+   "ms": 590,
+   "checked_at": 1794329913,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -26,17 +26,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 760,
-    "7d": 563,
-    "30d": 565,
+    "24h": 794,
+    "7d": 560,
+    "30d": 563,
     "90d": 553,
     "all": 553
    },
    "totals": {
-    "checks": 1198,
-    "available": 1198,
-    "ms_sum": 662357,
-    "ms_n": 1198,
+    "checks": 1199,
+    "available": 1199,
+    "ms_sum": 662947,
+    "ms_n": 1199,
     "first": 1791482215
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://games.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 184,
-   "checked_at": 1794303262,
+   "ms": 479,
+   "checked_at": 1794329913,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -62,17 +62,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 235,
-    "7d": 252,
-    "30d": 252,
-    "90d": 252,
-    "all": 252
+    "24h": 251,
+    "7d": 254,
+    "30d": 254,
+    "90d": 254,
+    "all": 254
    },
    "totals": {
-    "checks": 117,
-    "available": 117,
-    "ms_sum": 29541,
-    "ms_n": 117,
+    "checks": 118,
+    "available": 118,
+    "ms_sum": 30020,
+    "ms_n": 118,
     "first": 1794001692
    },
    "incident": null
@@ -83,8 +83,8 @@
    "url": "https://global.media.stux.games/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 39,
-   "checked_at": 1794303262,
+   "ms": 756,
+   "checked_at": 1794329913,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -98,17 +98,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 332,
-    "7d": 360,
-    "30d": 391,
+    "24h": 361,
+    "7d": 361,
+    "30d": 390,
     "90d": 415,
     "all": 415
    },
    "totals": {
-    "checks": 1198,
-    "available": 1198,
-    "ms_sum": 497423,
-    "ms_n": 1198,
+    "checks": 1199,
+    "available": 1199,
+    "ms_sum": 498179,
+    "ms_n": 1199,
     "first": 1791482215
    },
    "incident": null
@@ -119,8 +119,8 @@
    "url": "https://gamepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 134,
-   "checked_at": 1794303262,
+   "ms": 410,
+   "checked_at": 1794329913,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -134,17 +134,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 253,
-    "7d": 223,
-    "30d": 223,
-    "90d": 223,
-    "all": 223
+    "24h": 257,
+    "7d": 225,
+    "30d": 225,
+    "90d": 225,
+    "all": 225
    },
    "totals": {
-    "checks": 117,
-    "available": 117,
-    "ms_sum": 26122,
-    "ms_n": 117,
+    "checks": 118,
+    "available": 118,
+    "ms_sum": 26532,
+    "ms_n": 118,
     "first": 1794001692
    },
    "incident": null
@@ -155,8 +155,8 @@
    "url": "https://soonpage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 162,
-   "checked_at": 1794303262,
+   "ms": 510,
+   "checked_at": 1794329913,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -170,17 +170,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 224,
-    "7d": 219,
-    "30d": 219,
-    "90d": 219,
-    "all": 219
+    "24h": 231,
+    "7d": 221,
+    "30d": 221,
+    "90d": 221,
+    "all": 221
    },
    "totals": {
-    "checks": 117,
-    "available": 117,
-    "ms_sum": 25589,
-    "ms_n": 117,
+    "checks": 118,
+    "available": 118,
+    "ms_sum": 26099,
+    "ms_n": 118,
     "first": 1794001692
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://maintenancepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 196,
-   "checked_at": 1794303262,
+   "ms": 466,
+   "checked_at": 1794329913,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -206,17 +206,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 246,
-    "7d": 235,
-    "30d": 235,
-    "90d": 235,
-    "all": 235
+    "24h": 257,
+    "7d": 237,
+    "30d": 237,
+    "90d": 237,
+    "all": 237
    },
    "totals": {
-    "checks": 117,
-    "available": 117,
-    "ms_sum": 27474,
-    "ms_n": 117,
+    "checks": 118,
+    "available": 118,
+    "ms_sum": 27940,
+    "ms_n": 118,
     "first": 1794001692
    },
    "incident": null
@@ -224,7 +224,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 24,
-  "every": 2735
+  "checks": 21,
+  "every": 3930
  }
 }
