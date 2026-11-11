@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1794394139,
+ "updated": 1794394440,
  "name": "Stux.Games Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 313,
-   "checked_at": 1794394139,
+   "ms": 359,
+   "checked_at": 1794394439,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -28,15 +28,15 @@
    "avg_ms": {
     "24h": 353,
     "7d": 522,
-    "30d": 557,
+    "30d": 556,
     "90d": 549,
     "all": 549
    },
    "totals": {
-    "checks": 1222,
-    "available": 1222,
-    "ms_sum": 670823,
-    "ms_n": 1222,
+    "checks": 1223,
+    "available": 1223,
+    "ms_sum": 671182,
+    "ms_n": 1223,
     "first": 1791482215
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://games.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 206,
-   "checked_at": 1794394139,
+   "ms": 126,
+   "checked_at": 1794394439,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -62,17 +62,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 237,
-    "7d": 250,
-    "30d": 250,
-    "90d": 250,
-    "all": 250
+    "24h": 233,
+    "7d": 249,
+    "30d": 249,
+    "90d": 249,
+    "all": 249
    },
    "totals": {
-    "checks": 141,
-    "available": 141,
-    "ms_sum": 35230,
-    "ms_n": 141,
+    "checks": 142,
+    "available": 142,
+    "ms_sum": 35356,
+    "ms_n": 142,
     "first": 1794001692
    },
    "incident": null
@@ -83,8 +83,8 @@
    "url": "https://global.media.stux.games/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 111,
-   "checked_at": 1794394139,
+   "ms": 186,
+   "checked_at": 1794394439,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -98,17 +98,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 287,
-    "7d": 350,
+    "24h": 283,
+    "7d": 349,
     "30d": 382,
     "90d": 413,
     "all": 413
    },
    "totals": {
-    "checks": 1222,
-    "available": 1222,
-    "ms_sum": 504315,
-    "ms_n": 1222,
+    "checks": 1223,
+    "available": 1223,
+    "ms_sum": 504501,
+    "ms_n": 1223,
     "first": 1791482215
    },
    "incident": null
@@ -119,8 +119,8 @@
    "url": "https://gamepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 207,
-   "checked_at": 1794394139,
+   "ms": 131,
+   "checked_at": 1794394439,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -134,17 +134,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 208,
-    "7d": 221,
-    "30d": 221,
-    "90d": 221,
-    "all": 221
+    "24h": 205,
+    "7d": 220,
+    "30d": 220,
+    "90d": 220,
+    "all": 220
    },
    "totals": {
-    "checks": 141,
-    "available": 141,
-    "ms_sum": 31118,
-    "ms_n": 141,
+    "checks": 142,
+    "available": 142,
+    "ms_sum": 31249,
+    "ms_n": 142,
     "first": 1794001692
    },
    "incident": null
@@ -155,8 +155,8 @@
    "url": "https://soonpage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 185,
-   "checked_at": 1794394139,
+   "ms": 138,
+   "checked_at": 1794394439,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -170,17 +170,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 214,
-    "7d": 218,
-    "30d": 218,
-    "90d": 218,
-    "all": 218
+    "24h": 211,
+    "7d": 217,
+    "30d": 217,
+    "90d": 217,
+    "all": 217
    },
    "totals": {
-    "checks": 141,
-    "available": 141,
-    "ms_sum": 30722,
-    "ms_n": 141,
+    "checks": 142,
+    "available": 142,
+    "ms_sum": 30860,
+    "ms_n": 142,
     "first": 1794001692
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://maintenancepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 58,
-   "checked_at": 1794394139,
+   "ms": 158,
+   "checked_at": 1794394439,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -206,17 +206,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 268,
+    "24h": 263,
     "7d": 240,
     "30d": 240,
     "90d": 240,
     "all": 240
    },
    "totals": {
-    "checks": 141,
-    "available": 141,
-    "ms_sum": 33900,
-    "ms_n": 141,
+    "checks": 142,
+    "available": 142,
+    "ms_sum": 34058,
+    "ms_n": 142,
     "first": 1794001692
    },
    "incident": null
@@ -224,7 +224,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 22,
-  "every": 3058
+  "checks": 23,
+  "every": 2933
  }
 }
