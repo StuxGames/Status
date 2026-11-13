@@ -4,6 +4,13 @@ All notable changes to Stux.Games' status page (status.stux.games) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.13
+
+### Changed
+
+- The imprint GitHup generates (`legal.company` in `.githup.yml`) gives Stux Group Ltd's new registered office, 124 City Road, London, EC1V 2NX, England, United Kingdom. The company
+  number (13160574) and "registered in England and Wales" are unchanged
+
 ## v26.11.08
 
 ### Changed
