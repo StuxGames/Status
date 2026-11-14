@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1794666548,
+ "updated": 1794666849,
  "name": "Stux.Games Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 353,
-   "checked_at": 1794666548,
+   "ms": 417,
+   "checked_at": 1794666848,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -27,16 +27,16 @@
    },
    "avg_ms": {
     "24h": 404,
-    "7d": 502,
+    "7d": 501,
     "30d": 537,
     "90d": 545,
     "all": 545
    },
    "totals": {
-    "checks": 1306,
-    "available": 1306,
-    "ms_sum": 712272,
-    "ms_n": 1306,
+    "checks": 1307,
+    "available": 1307,
+    "ms_sum": 712689,
+    "ms_n": 1307,
     "first": 1791482215
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://games.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 347,
-   "checked_at": 1794666548,
+   "ms": 89,
+   "checked_at": 1794666848,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -62,17 +62,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 239,
-    "7d": 234,
+    "24h": 235,
+    "7d": 233,
     "30d": 246,
     "90d": 246,
     "all": 246
    },
    "totals": {
-    "checks": 225,
-    "available": 225,
-    "ms_sum": 55406,
-    "ms_n": 225,
+    "checks": 226,
+    "available": 226,
+    "ms_sum": 55495,
+    "ms_n": 226,
     "first": 1794001692
    },
    "incident": null
@@ -83,8 +83,8 @@
    "url": "https://global.media.stux.games/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 585,
-   "checked_at": 1794666548,
+   "ms": 563,
+   "checked_at": 1794666848,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -98,17 +98,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 353,
-    "7d": 332,
+    "24h": 359,
+    "7d": 333,
     "30d": 375,
     "90d": 408,
     "all": 408
    },
    "totals": {
-    "checks": 1306,
-    "available": 1306,
-    "ms_sum": 532763,
-    "ms_n": 1306,
+    "checks": 1307,
+    "available": 1307,
+    "ms_sum": 533326,
+    "ms_n": 1307,
     "first": 1791482215
    },
    "incident": null
@@ -119,8 +119,8 @@
    "url": "https://gamepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 459,
-   "checked_at": 1794666548,
+   "ms": 284,
+   "checked_at": 1794666848,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -141,10 +141,10 @@
     "all": 236
    },
    "totals": {
-    "checks": 225,
-    "available": 225,
-    "ms_sum": 53094,
-    "ms_n": 225,
+    "checks": 226,
+    "available": 226,
+    "ms_sum": 53378,
+    "ms_n": 226,
     "first": 1794001692
    },
    "incident": null
@@ -155,8 +155,8 @@
    "url": "https://soonpage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 277,
-   "checked_at": 1794666548,
+   "ms": 431,
+   "checked_at": 1794666848,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -170,17 +170,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 253,
-    "7d": 231,
-    "30d": 231,
-    "90d": 231,
-    "all": 231
+    "24h": 258,
+    "7d": 232,
+    "30d": 232,
+    "90d": 232,
+    "all": 232
    },
    "totals": {
-    "checks": 225,
-    "available": 225,
-    "ms_sum": 52075,
-    "ms_n": 225,
+    "checks": 226,
+    "available": 226,
+    "ms_sum": 52506,
+    "ms_n": 226,
     "first": 1794001692
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://maintenancepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 316,
-   "checked_at": 1794666548,
+   "ms": 241,
+   "checked_at": 1794666848,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -213,10 +213,10 @@
     "all": 237
    },
    "totals": {
-    "checks": 225,
-    "available": 225,
-    "ms_sum": 53343,
-    "ms_n": 225,
+    "checks": 226,
+    "available": 226,
+    "ms_sum": 53584,
+    "ms_n": 226,
     "first": 1794001692
    },
    "incident": null
@@ -224,7 +224,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 33,
-  "every": 2651
+  "checks": 34,
+  "every": 2580
  }
 }
