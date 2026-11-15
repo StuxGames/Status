@@ -4,6 +4,15 @@ All notable changes to Stux.Games' status page (status.stux.games) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.15
+
+### Added
+
+- `dev-server.sh`/`.bat` take `--lan`: it listens on all interfaces (`0.0.0.0`) instead of `127.0.0.1`, so phones and
+  other devices on the local network can open the dev server, and prints one URL per IPv4 address (usually the
+  `192.168.x.x` one) with a firewall hint. Without it the server stays on `127.0.0.1`. README and CONTRIBUTING
+  describe it
+
 ## v26.11.13
 
 ### Changed
