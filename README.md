@@ -22,12 +22,12 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 452 ms |
-| Stux.Games | [Stux.Games Games](https://games.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 223 ms |
-| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 352 ms |
-| Templates | [Stux.Games Gamepage](https://gamepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 212 ms |
-| Templates | [Stux.Games Soonpage](https://soonpage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 219 ms |
-| Templates | [Stux.Games Maintenancepage](https://maintenancepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 238 ms |
+| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 471 ms |
+| Stux.Games | [Stux.Games Games](https://games.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 213 ms |
+| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 332 ms |
+| Templates | [Stux.Games Gamepage](https://gamepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 228 ms |
+| Templates | [Stux.Games Soonpage](https://soonpage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 250 ms |
+| Templates | [Stux.Games Maintenancepage](https://maintenancepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 255 ms |
 <!-- githup:end -->
 
 ## What's monitored
@@ -35,6 +35,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 GitHup checks each monitor in [`.githup.yml`](.githup.yml) regularly. The workflow asks GitHub for a run every 5 minutes, but GitHub runs schedules best-effort and often less often (a late run checks up to 4 times, 5 minutes apart, to fill the gap), so the status page shows the real check rhythm over the last 24 hours:
 
 - **Stux.Games:** the stux.games homepage and the games.stux.games directory
+- **Games:** Purrxel Flow, through its health check at purrxel-flow.stux.games/api/health
 - **Shared:** the Stux.Games media CDN
 - **Templates:** gamepage.stux.games, soonpage.stux.games and maintenancepage.stux.games
 

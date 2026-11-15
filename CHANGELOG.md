@@ -4,6 +4,13 @@ All notable changes to Stux.Games' status page (status.stux.games) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.15-2
+
+### Added
+
+- A **Games** group with a **Purrxel Flow** monitor, checking its health endpoint at
+  purrxel-flow.stux.games/api/health. The README's "What's monitored" list includes it
+
 ## v26.11.15-1
 
 ### Changed

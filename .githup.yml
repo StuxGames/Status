@@ -31,7 +31,7 @@ defaults:
 # Monitors are grouped into sections on the page, each with a combined status.
 # Slugs come from the names, so moving a monitor between groups keeps its history.
 # Only sites that answer are monitored; list a new site under a group's `links:` until it does.
-# The games themselves (Flappie Race, MultiPong) have no public site yet, and dls.stux.games /
+# Flappie Race and MultiPong have no public site yet, and dls.stux.games /
 # media.stux.games don't answer, so they aren't listed.
 groups:
   - name: Stux.Games
@@ -43,6 +43,13 @@ groups:
       - name: Stux.Games Games
         url: https://games.stux.games/
         description: The directory of Stux.Games' games and server tools
+
+  - name: Games
+    description: The Stux.Games games you can play.
+    monitors:
+      - name: Purrxel Flow
+        url: https://purrxel-flow.stux.games/api/health
+        description: The cosy snake-cat puzzle game (its health check)
 
   - name: Shared
     description: The media every Stux.Games site relies on.
