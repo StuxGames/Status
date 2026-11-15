@@ -4,6 +4,18 @@ All notable changes to Stux.Games' status page (status.stux.games) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.15-1
+
+### Changed
+
+- **Branches: `test` → `staging` → `main`.** Work and releases happen on `test`. The new `staging` branch is
+  pre-production and changes only through a pull request from `test`. `main` is live and changes only through a
+  pull request from `staging`. `commit.sh`/`.bat` refuse to run on `staging` as well as `main`, and print the push
+  command plus both `gh pr create` commands after tagging. CONTRIBUTING's "Branches and going live" section and the
+  README's Versioning section describe the flow
+- The `*/5` schedule's comment in `.github/workflows/status.yml` says it asks GitHub for a check every 5 minutes,
+  best-effort, since GitHub often runs it less often. The schedule itself is unchanged
+
 ## v26.11.15
 
 ### Added
