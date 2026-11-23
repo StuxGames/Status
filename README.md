@@ -22,13 +22,13 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 494 ms |
-| Stux.Games | [Stux.Games Games](https://games.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 242 ms |
-| Games | [Purrxel Flow](https://purrxel-flow.stux.games/api/health) | Up | 100.00% | 100.00% | 100.00% | 757 ms |
-| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 338 ms |
-| Templates | [Stux.Games Gamepage](https://gamepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 259 ms |
-| Templates | [Stux.Games Soonpage](https://soonpage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 247 ms |
-| Templates | [Stux.Games Maintenancepage](https://maintenancepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 244 ms |
+| Stux.Games | [Stux.Games](https://stux.games/) | Up | 100.00% | 100.00% | 100.00% | 411 ms |
+| Stux.Games | [Stux.Games Games](https://games.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 238 ms |
+| Games | [Purrxel Flow](https://purrxel-flow.stux.games/api/health) | Up | 100.00% | 100.00% | 100.00% | 677 ms |
+| Shared | [Stux.Games Media CDN](https://global.media.stux.games/icon.png) | Up | 100.00% | 100.00% | 100.00% | 306 ms |
+| Templates | [Stux.Games Gamepage](https://gamepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 219 ms |
+| Templates | [Stux.Games Soonpage](https://soonpage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 251 ms |
+| Templates | [Stux.Games Maintenancepage](https://maintenancepage.stux.games/) | Up | 100.00% | 100.00% | 100.00% | 247 ms |
 <!-- githup:end -->
 
 ## What's monitored
