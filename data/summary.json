@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1795393360,
+ "updated": 1795393660,
  "name": "Stux.Games Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 250,
-   "checked_at": 1795393359,
+   "ms": 454,
+   "checked_at": 1795393659,
    "last_change": {
     "at": 1791482215,
     "from": null,
@@ -26,17 +26,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 506,
+    "24h": 504,
     "7d": 532,
     "30d": 525,
     "90d": 541,
     "all": 541
    },
    "totals": {
-    "checks": 1542,
-    "available": 1542,
-    "ms_sum": 834255,
-    "ms_n": 1542,
+    "checks": 1543,
+    "available": 1543,
+    "ms_sum": 834709,
+    "ms_n": 1543,
     "first": 1791482215
    },
    "incident": null
@@ -47,8 +47,116 @@
    "url": "https://games.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 539,
-   "checked_at": 1795393359,
+   "ms": 67,
+   "checked_at": 1795393659,
+   "last_change": {
+    "at": 1794001692,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 245,
+    "7d": 225,
+    "30d": 234,
+    "90d": 234,
+    "all": 234
+   },
+   "totals": {
+    "checks": 462,
+    "available": 462,
+    "ms_sum": 108111,
+    "ms_n": 462,
+    "first": 1794001692
+   },
+   "incident": null
+  },
+  {
+   "slug": "purrxel-flow",
+   "name": "Purrxel Flow",
+   "url": "https://purrxel-flow.stux.games/api/health",
+   "status": "up",
+   "code": 200,
+   "ms": 564,
+   "checked_at": 1795393659,
+   "last_change": {
+    "at": 1794777171,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 721,
+    "7d": 826,
+    "30d": 891,
+    "90d": 891,
+    "all": 891
+   },
+   "totals": {
+    "checks": 197,
+    "available": 197,
+    "ms_sum": 175567,
+    "ms_n": 197,
+    "first": 1794777171
+   },
+   "incident": null
+  },
+  {
+   "slug": "stux-games-media-cdn",
+   "name": "Stux.Games Media CDN",
+   "url": "https://global.media.stux.games/icon.png",
+   "status": "up",
+   "code": 200,
+   "ms": 312,
+   "checked_at": 1795393659,
+   "last_change": {
+    "at": 1791482215,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 345,
+    "7d": 328,
+    "30d": 343,
+    "90d": 395,
+    "all": 395
+   },
+   "totals": {
+    "checks": 1543,
+    "available": 1543,
+    "ms_sum": 610080,
+    "ms_n": 1543,
+    "first": 1791482215
+   },
+   "incident": null
+  },
+  {
+   "slug": "stux-games-gamepage",
+   "name": "Stux.Games Gamepage",
+   "url": "https://gamepage.stux.games/",
+   "status": "up",
+   "code": 200,
+   "ms": 125,
+   "checked_at": 1795393659,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -63,124 +171,16 @@
    },
    "avg_ms": {
     "24h": 252,
-    "7d": 226,
-    "30d": 234,
-    "90d": 234,
-    "all": 234
-   },
-   "totals": {
-    "checks": 461,
-    "available": 461,
-    "ms_sum": 108044,
-    "ms_n": 461,
-    "first": 1794001692
-   },
-   "incident": null
-  },
-  {
-   "slug": "purrxel-flow",
-   "name": "Purrxel Flow",
-   "url": "https://purrxel-flow.stux.games/api/health",
-   "status": "up",
-   "code": 200,
-   "ms": 522,
-   "checked_at": 1795393359,
-   "last_change": {
-    "at": 1794777171,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 727,
-    "7d": 828,
-    "30d": 893,
-    "90d": 893,
-    "all": 893
-   },
-   "totals": {
-    "checks": 196,
-    "available": 196,
-    "ms_sum": 175003,
-    "ms_n": 196,
-    "first": 1794777171
-   },
-   "incident": null
-  },
-  {
-   "slug": "stux-games-media-cdn",
-   "name": "Stux.Games Media CDN",
-   "url": "https://global.media.stux.games/icon.png",
-   "status": "up",
-   "code": 200,
-   "ms": 125,
-   "checked_at": 1795393359,
-   "last_change": {
-    "at": 1791482215,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 346,
-    "7d": 328,
-    "30d": 343,
-    "90d": 395,
-    "all": 395
-   },
-   "totals": {
-    "checks": 1542,
-    "available": 1542,
-    "ms_sum": 609768,
-    "ms_n": 1542,
-    "first": 1791482215
-   },
-   "incident": null
-  },
-  {
-   "slug": "stux-games-gamepage",
-   "name": "Stux.Games Gamepage",
-   "url": "https://gamepage.stux.games/",
-   "status": "up",
-   "code": 200,
-   "ms": 215,
-   "checked_at": 1795393359,
-   "last_change": {
-    "at": 1794001692,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 256,
     "7d": 216,
     "30d": 227,
     "90d": 227,
     "all": 227
    },
    "totals": {
-    "checks": 461,
-    "available": 461,
-    "ms_sum": 104676,
-    "ms_n": 461,
+    "checks": 462,
+    "available": 462,
+    "ms_sum": 104801,
+    "ms_n": 462,
     "first": 1794001692
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://soonpage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 69,
-   "checked_at": 1795393359,
+   "ms": 496,
+   "checked_at": 1795393659,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -206,17 +206,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 234,
-    "7d": 224,
-    "30d": 229,
-    "90d": 229,
-    "all": 229
+    "24h": 243,
+    "7d": 226,
+    "30d": 230,
+    "90d": 230,
+    "all": 230
    },
    "totals": {
-    "checks": 461,
-    "available": 461,
-    "ms_sum": 105683,
-    "ms_n": 461,
+    "checks": 462,
+    "available": 462,
+    "ms_sum": 106179,
+    "ms_n": 462,
     "first": 1794001692
    },
    "incident": null
@@ -227,8 +227,8 @@
    "url": "https://maintenancepage.stux.games/",
    "status": "up",
    "code": 200,
-   "ms": 348,
-   "checked_at": 1795393359,
+   "ms": 335,
+   "checked_at": 1795393659,
    "last_change": {
     "at": 1794001692,
     "from": null,
@@ -242,17 +242,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 261,
+    "24h": 263,
     "7d": 215,
-    "30d": 229,
-    "90d": 229,
-    "all": 229
+    "30d": 230,
+    "90d": 230,
+    "all": 230
    },
    "totals": {
-    "checks": 461,
-    "available": 461,
-    "ms_sum": 105768,
-    "ms_n": 461,
+    "checks": 462,
+    "available": 462,
+    "ms_sum": 106103,
+    "ms_n": 462,
     "first": 1794001692
    },
    "incident": null
@@ -260,7 +260,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 27,
-  "every": 2955
+  "checks": 28,
+  "every": 2857
  }
 }
